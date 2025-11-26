@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **IoT-Based Smart Farm Management System**  
+- 🔭 I recently completed **IoT-Based Smart Farm Management System**  
 - 🤖 I’ve built my own **AI Personal Assistant Robot – Shibu** (LLM + Object Detection + Voice Interaction)  
 - 👨‍💻 Some of my projects include:  
   - 🌾 <a href="https://github.com/Mahesprabhu45/Simple_Farmer" target="_blank"><strong>IoT-Based Smart Farm Management</strong></a> — integrates ISRO soil data, AQI, commodity prices & automation  
