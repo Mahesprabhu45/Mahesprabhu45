@@ -8,17 +8,18 @@
 - 🛠 Designed, assembled, and tested a **BLE-enabled custom PCB**  
 - 🎯 Passionate about **robotics, automation, embedded systems, and wireless power transfer**
 - 💬 Skilled with **Arduino, STM32, Raspberry Pi, Edge AI, Sensors, BLE, LoRa & KiCad**
-- 📫 Reach me at: **mahishaiva0822@gmail.com** &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/mahesh-prabhu-6063b929a/" target="_blank"><strong>LinkedIn</strong></a>
+- 📫 Reach me at: **mahishaiva0822@gmail.com** | <a href="https://www.linkedin.com/in/mahesh-prabhu-6063b929a/" target="_blank"><strong>LinkedIn</strong></a>
 - ⚡ Fun fact: I love **building robots, gaming, and superbikes (especially the Ducati Panigale V4 S 😎)**  
 
 ---
 
 ### 🚀 Featured Projects
 
-🌾 &nbsp; **[IoT-Based Smart Farm Management](https://github.com/Mahesprabhu45/Simple_Farmer)**  
-🤖 &nbsp; **[Shibu – Personal AI Robot](https://github.com/Mahesprabhu45/Shibu-AI-Robot)**  
-🔗 &nbsp; **[BLE Sensor PCB](https://github.com/Mahesprabhu45/BLE_SENSOR_PCB)**  
-🚗 &nbsp; **[Automated Lane Detection EV](https://github.com/Mahesprabhu45/Automated-Lane-Detection-EV)**  
+- 🌾 **[IoT-Based Smart Farm Management](https://github.com/Mahesprabhu45/Simple_Farmer)**
+- 🤖 **[Shibu – Personal AI Robot](https://github.com/Mahesprabhu45/Shibu-AI-Robot)**
+- 🔗 **[BLE Sensor PCB](https://github.com/Mahesprabhu45/BLE_SENSOR_PCB)**
+- 🚗 **[Automated Lane Detection EV](https://github.com/Mahesprabhu45/Automated-Lane-Detection-and-Wireless-Charging-EV)**
+- 📡 **[Arduino Radar System](https://github.com/Mahesprabhu45/Arduino-Radar-System)**
 
 ---
 
@@ -48,3 +49,5 @@
 - 🏍️ Huge motorcycle enthusiast (Panigale V4 S supremacy 😎)  
 - 🎮 Gaming when I'm not wiring, coding, or troubleshooting  
 - 🔧 Always experimenting and building new electronics ideas  
+
+---
